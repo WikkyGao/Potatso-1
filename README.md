@@ -30,7 +30,8 @@ Potatso has in total 33 (2 as submodules dependencies as used as local file in C
 * 1 Carthage dependency
 * 4 submodules dependencies
 
-The project is tested with Xcode 8.2 (8C38) on iOS 10.2 (14C92) device with cocoapod version `1.1.1`+.
+The project is tested with Xcode `8.2 (8C38)` on iOS `10.2 (14C92)` device with cocoapod version `1.1.1`+, and carthage version `0.18.1`.  
+If you experienced an expected issue, try to use those versions.
 
 ## Change log
 
@@ -117,8 +118,8 @@ We use the following services or open-source libraries. So we'd like show them h
 
 ## Notice
 
-Potatso 2 is in beta and likely to come out not too long in the future.  
-You can wait to purchase Potatso 2 from App Store, or still use Potatso by building it and installing to your device from this project.
+Potatso 2 was released on [App Store](https://itunes.apple.com/us/app/id1162704202?mt=8)  
+You can purchase it from App Store, or still use Potatso by building it manually and installing to your device from this project.
 
 Please note that Potatso 2 will be closed-source as stated from original author's reason. Read more from [here](https://github.com/haxpor/Potatso/blob/master/ADHERE_LICENSE.md).
 
